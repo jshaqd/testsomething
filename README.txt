@@ -1,3 +1,4 @@
 ﻿Hello, git
 Hello, world
-Hello three times.
+Hello three times
+test.
